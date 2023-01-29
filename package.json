@@ -1,0 +1,21 @@
+{
+  "name": "dva-shop-2-0-vue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^9.16.0",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6",
+    "vuefire": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.0.0"
+  }
+}
